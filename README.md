@@ -1,5 +1,13 @@
-## Oi, eu sou o Adriano Lima 
- <div>
+<div dsplay="inline-block">
+<h1 align="left">Hello! I'm Adriano Lima!</h1>
+
+</br>
+</br>
+
+I studying computer Science at Federal University of Ceara. Currently I'm study some technologies like JavaScript, Python and Java.
+
+ 
+<div>
   <a href="https://github.com/drianodev">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=drianodev&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drianodev&layout=compact&langs_count=16&theme=cobalt"/>
