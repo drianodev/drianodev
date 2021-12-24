@@ -1,5 +1,5 @@
 <div dsplay="inline-block">
-<h1 align="left">Hello! I'm Adriano Lima!</h1>
+<h1 align="left">Hello! I'm Adriano! <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
 
 </br>
 
@@ -22,7 +22,10 @@ I studying Computer Science at Federal University of Ceara. Currently I'm study 
   <img align="center" alt="Driano-Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Driano-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Driano-Kotlin" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-</div>
+
+  <img align="right" alt="gif-programando" height="150" width="150" style="border-radius:50px;" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611b098f2986f3740b83ae67f3199e0c1c775244523&rid=giphy.gif&ct=g">
+
+ </div>
   
   ##
   
