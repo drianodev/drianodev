@@ -1,5 +1,5 @@
 <div dsplay="inline-block">
-<h1 align="left">Hey! I am Adriano </h1>
+<h1 align="left">Hey! My name is Adriano, and I'm from Brazil (🇧🇷) </h1>
 
 </br>
 
@@ -46,11 +46,5 @@
 <div align="center">
   <a href="https://github.com/drianodev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=drianodev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drianodev&layout=compact&langs_count=16&theme=algolia"/>
 </div>
- 
-  
-***
- 
- ![Snake animation](https://github.com/drianodev/drianodev/blob/output/github-contribution-grid-snake.svg)
 
