@@ -3,8 +3,8 @@
 
 </br>
 
-### I'm a Computer Science student at the Federal University of Ceará and I'm constantly looking for new knowledge in the area.
-### Currently, I'm dedicating myself to the study of technologies such as Java and JavaScript, seeking to improve my software development skills.
+### I am a Computer Science student at the Federal University of Ceará and currently in the position of full stack developer.
+### I am currently focused on improving my software development skills, focusing my efforts on studying technologies such as Java and JavaScript. Also, I'm exploring Kotlin for mobile development as part of my ongoing learning.
 ### Here on my GitHub profile, you'll find some of my projects and code, which reflect my interest in programming and my dedication to learning more and more.
 ### Feel free to explore and contribute suggestions and constructive feedback. I am always open to new learning opportunities and collaborations on interesting projects.
 ### Thanks for the visit!
