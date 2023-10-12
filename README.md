@@ -1,13 +1,13 @@
-<div dsplay="inline-block">
-<h1 align="left">Hey! My name is Adriano, and I'm from Brazil (🇧🇷) </h1>
+# Hey! My name is Adriano, and I'm from Brazil (🇧🇷)
 
-</br>
+### About Me
+- Computer Science student at the Federal University of Ceará.
+- Full stack developer with a focus on Java, JavaScript, and Kotlin for mobile development.
+- Passionate about software development, always eager to learn and improve.
 
-### I am a Computer Science student at the Federal University of Ceará and currently in the position of full stack developer.
-### I am currently focused on improving my software development skills, focusing my efforts on studying technologies such as Java and JavaScript. Also, I'm exploring Kotlin for mobile development as part of my ongoing learning.
-### Here on my GitHub profile, you'll find some of my projects and code, which reflect my interest in programming and my dedication to learning more and more.
-### Feel free to explore and contribute suggestions and constructive feedback. I am always open to new learning opportunities and collaborations on interesting projects.
-### Thanks for the visit!
+<div align="center">
+  <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
+</div>
 
 <div align="center">
    <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
@@ -46,3 +46,6 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title = "SQLITE"/></code>
 
+
+
+### 🙏 &nbsp;Thanks for the visit!
