@@ -2,7 +2,7 @@
 
 ### About Me
 - Computer Science student at the Federal University of Ceará.
-- Full stack developer with a focus on Java, JavaScript, and Kotlin for mobile development.
+- Full stack developer with a focus on Java and Kotlin.
 - Passionate about software development, always eager to learn and improve.
 
 <div align="center">
