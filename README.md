@@ -17,7 +17,7 @@
 ## 🛠 &nbsp;Tech Stack
 
 ### 👩‍💻 &nbsp;Back-End
-![Backend](https://skillicons.dev/icons?i=java,python,php,c,nodejs)
+![Backend](https://skillicons.dev/icons?i=java,kotlin,python,php,c,nodejs)
 
 ![Frameworks](https://skillicons.dev/icons?i=spring,laravel)
 
