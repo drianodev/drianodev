@@ -55,6 +55,4 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drianodev&hide=css,html,scss,powershell,shell&hide_progress=true&theme=dracula)
-
 ### 🙏 &nbsp;Thanks for the visit!
